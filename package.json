@@ -1,8 +1,9 @@
 {
-  "name": "simple-calculator",
+  "name": "simplest-calculator",
   "version": "1.0.0",
   "description": "this is the simple calculator, node.js and inquirer",
   "main": "index.js",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

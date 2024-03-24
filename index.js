@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 // Simple Calculator 
 import inquirer from "inquirer";
 const answer = await inquirer.prompt([{ message: "Enter first Number", type: "number", name: "firstNumber" },
