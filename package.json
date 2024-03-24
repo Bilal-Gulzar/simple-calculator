@@ -1,5 +1,5 @@
 {
-  "name": "simplest-calculator",
+  "name": "16-simplest-calculator",
   "version": "1.0.0",
   "description": "this is the simple calculator, node.js and inquirer",
   "main": "index.js",
